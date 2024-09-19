@@ -1,0 +1,11 @@
+# Ignore the .idea folder
+.idea
+
+# Ignore the .DS_Store file
+.DS_Store
+
+# Ignore the .env file
+.env
+
+# Ignore the vendor folder
+vendor

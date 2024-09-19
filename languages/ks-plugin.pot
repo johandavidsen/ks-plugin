@@ -1,0 +1,331 @@
+# Copyright (C) 2024 Jóhan H Dam-Davidsen
+# This file is distributed under the GPL2.
+msgid ""
+msgstr ""
+"Project-Id-Version: KS Plugin v0.5.0\n"
+"Report-Msgid-Bugs-To: https://wordpress.org/support/plugin/ks-plugin\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"POT-Creation-Date: 2024-09-19T10:49:23+00:00\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"X-Generator: WP-CLI 2.11.0\n"
+"X-Domain: KS-plugin\n"
+
+#. Plugin Name of the plugin
+#: ks-plugin.php
+msgid "KS Plugin"
+msgstr ""
+
+#. Plugin URI of the plugin
+#: ks-plugin.php
+msgid "https://fjakkarin.com/ks-plugin"
+msgstr ""
+
+#. Description of the plugin
+#: ks-plugin.php
+msgid "This plugin contains custom functionality for the KS website and intranet."
+msgstr ""
+
+#. Author of the plugin
+#: ks-plugin.php
+msgid "Jóhan H Dam-Davidsen"
+msgstr ""
+
+#. Author URI of the plugin
+#: ks-plugin.php
+msgid "https://fjakkarin.com"
+msgstr ""
+
+#: inc/class-department-taxonomy.php:33
+msgctxt "Taxonomy General Name"
+msgid "Departments"
+msgstr ""
+
+#: inc/class-department-taxonomy.php:34
+msgctxt "Taxonomy Singular Name"
+msgid "Department"
+msgstr ""
+
+#: inc/class-department-taxonomy.php:35
+msgid "Departments"
+msgstr ""
+
+#: inc/class-department-taxonomy.php:36
+msgid "All Departments"
+msgstr ""
+
+#: inc/class-department-taxonomy.php:37
+msgid "Parent Department"
+msgstr ""
+
+#: inc/class-department-taxonomy.php:38
+msgid "Parent Department:"
+msgstr ""
+
+#: inc/class-department-taxonomy.php:39
+msgid "New Department"
+msgstr ""
+
+#: inc/class-department-taxonomy.php:40
+msgid "Add New Department"
+msgstr ""
+
+#: inc/class-department-taxonomy.php:41
+msgid "Edit Department"
+msgstr ""
+
+#: inc/class-department-taxonomy.php:42
+msgid "Update Department"
+msgstr ""
+
+#: inc/class-department-taxonomy.php:43
+msgid "View Department"
+msgstr ""
+
+#: inc/class-department-taxonomy.php:44
+msgid "Separate Departments with commas"
+msgstr ""
+
+#: inc/class-department-taxonomy.php:48
+msgid "Add or remove Departments"
+msgstr ""
+
+#: inc/class-department-taxonomy.php:53
+msgid "Popular Departments"
+msgstr ""
+
+#: inc/class-department-taxonomy.php:54
+msgid "Search Departments"
+msgstr ""
+
+#: inc/class-department-taxonomy.php:55
+msgid "No Departments Found"
+msgstr ""
+
+#: inc/class-department-taxonomy.php:56
+msgid "No Departments"
+msgstr ""
+
+#: inc/class-department-taxonomy.php:57
+msgid "Departments list"
+msgstr ""
+
+#: inc/class-department-taxonomy.php:58
+msgid "Departments list navigation"
+msgstr ""
+
+#: inc/class-department-taxonomy.php:106
+msgid "Department"
+msgstr ""
+
+#: inc/class-department-taxonomy.php:110
+msgid "Former URL"
+msgstr ""
+
+#: inc/class-department-taxonomy.php:128
+msgid "Phone number"
+msgstr ""
+
+#: inc/class-department-taxonomy.php:132
+msgid "Phone Instructions"
+msgstr ""
+
+#: inc/class-department-taxonomy.php:141
+msgid "Phone placeholder"
+msgstr ""
+
+#: inc/class-department-taxonomy.php:149
+msgid "Email"
+msgstr ""
+
+#: inc/class-department-taxonomy.php:169
+msgid "PO Box"
+msgstr ""
+
+#: inc/class-department-taxonomy.php:181
+msgid "PO Box - default value"
+msgstr ""
+
+#: inc/class-department-taxonomy.php:192
+msgid "Address line 1"
+msgstr ""
+
+#: inc/class-department-taxonomy.php:196
+msgid "Address line 1 - instructions"
+msgstr ""
+
+#: inc/class-department-taxonomy.php:205
+msgid "Address Placeholder"
+msgstr ""
+
+#: inc/class-department-taxonomy.php:213
+msgid "Address line 2"
+msgstr ""
+
+#: inc/class-department-taxonomy.php:234
+msgid "Postcode"
+msgstr ""
+
+#: inc/class-department-taxonomy.php:238
+msgid "Postcode - instructions"
+msgstr ""
+
+#: inc/class-department-taxonomy.php:247
+msgid "Postcode - placeholder"
+msgstr ""
+
+#: inc/class-department-taxonomy.php:257
+msgid "City"
+msgstr ""
+
+#: inc/class-department-taxonomy.php:261
+msgid "City - instructions"
+msgstr ""
+
+#: inc/class-department-taxonomy.php:270
+msgid "City - placeholder"
+msgstr ""
+
+#: inc/class-department-taxonomy.php:278
+msgid "Standard opening hours"
+msgstr ""
+
+#: inc/class-department-taxonomy.php:299
+msgid "Opening hours"
+msgstr ""
+
+#: inc/class-department-taxonomy.php:323
+#: inc/class-department-taxonomy.php:427
+msgid "Add days"
+msgstr ""
+
+#: inc/class-department-taxonomy.php:327
+#: inc/class-department-taxonomy.php:431
+msgid "Days"
+msgstr ""
+
+#: inc/class-department-taxonomy.php:340
+#: inc/class-department-taxonomy.php:444
+msgid "Monday"
+msgstr ""
+
+#: inc/class-department-taxonomy.php:341
+#: inc/class-department-taxonomy.php:445
+msgid "Tuesday"
+msgstr ""
+
+#: inc/class-department-taxonomy.php:342
+#: inc/class-department-taxonomy.php:446
+msgid "Wednesday"
+msgstr ""
+
+#: inc/class-department-taxonomy.php:343
+#: inc/class-department-taxonomy.php:447
+msgid "Thursday"
+msgstr ""
+
+#: inc/class-department-taxonomy.php:344
+#: inc/class-department-taxonomy.php:448
+msgid "Friday"
+msgstr ""
+
+#: inc/class-department-taxonomy.php:345
+#: inc/class-department-taxonomy.php:449
+msgid "Saturday"
+msgstr ""
+
+#: inc/class-department-taxonomy.php:346
+#: inc/class-department-taxonomy.php:450
+msgid "Sunday"
+msgstr ""
+
+#: inc/class-department-taxonomy.php:360
+#: inc/class-department-taxonomy.php:464
+msgid "Opens"
+msgstr ""
+
+#: inc/class-department-taxonomy.php:364
+#: inc/class-department-taxonomy.php:468
+msgid "Opens - instructions"
+msgstr ""
+
+#: inc/class-department-taxonomy.php:384
+#: inc/class-department-taxonomy.php:488
+msgid "Closes"
+msgstr ""
+
+#: inc/class-department-taxonomy.php:388
+#: inc/class-department-taxonomy.php:492
+msgid "Closes - instructions"
+msgstr ""
+
+#: inc/class-department-taxonomy.php:411
+msgid "Phone hours"
+msgstr ""
+
+#: inc/class-department-taxonomy.php:415
+msgid "Phone hours - instructions"
+msgstr ""
+
+#: inc/class-department-taxonomy.php:515
+msgid "Ignore holiday closing"
+msgstr ""
+
+#: inc/class-department-taxonomy.php:519
+msgid "Ignore holiday closing - instructions"
+msgstr ""
+
+#: inc/class-department-taxonomy.php:536
+msgid "Requires appointment"
+msgstr ""
+
+#: inc/class-department-taxonomy.php:557
+msgid "GLN"
+msgstr ""
+
+#: inc/class-department-taxonomy.php:591
+msgid "No color"
+msgstr ""
+
+#: inc/class-department-taxonomy.php:592
+msgid "Blue"
+msgstr ""
+
+#: inc/class-department-taxonomy.php:593
+msgid "Purple"
+msgstr ""
+
+#: inc/class-department-taxonomy.php:594
+msgid "Green"
+msgstr ""
+
+#: inc/class-department-taxonomy.php:595
+msgid "Red"
+msgstr ""
+
+#: inc/class-department-taxonomy.php:596
+msgid "Orange"
+msgstr ""
+
+#: inc/class-department-taxonomy.php:597
+msgid "Light Blue"
+msgstr ""
+
+#: inc/class-department-taxonomy.php:610
+msgid "Social"
+msgstr ""
+
+#: inc/class-department-taxonomy.php:626
+msgid "Add link"
+msgstr ""
+
+#: inc/class-department-taxonomy.php:630
+msgid "Link"
+msgstr ""
+
+#: inc/class-department-taxonomy.php:649
+msgid "Label"
+msgstr ""

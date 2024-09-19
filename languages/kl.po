@@ -1,0 +1,319 @@
+# Copyright (C) 2024 Jóhan H Dam-Davidsen
+# This file is distributed under the GPL2.
+msgid ""
+msgstr ""
+"Project-Id-Version: KS Plugin v0.5.0\n"
+"Report-Msgid-Bugs-To: https://wordpress.org/support/plugin/ks-plugin\n"
+"POT-Creation-Date: 2024-09-19T10:49:23+00:00\n"
+"PO-Revision-Date: 2024-09-19 12:05+0100\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: kl_GL\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 3.5\n"
+"X-Domain: KS-plugin\n"
+
+#. Plugin Name of the plugin
+#: ks-plugin.php
+msgid "KS Plugin"
+msgstr "KS Ikkussuussineq"
+
+#. Plugin URI of the plugin
+#: ks-plugin.php
+msgid "https://fjakkarin.com/ks-plugin"
+msgstr "https://fjakkarin.com/ks-plugin"
+
+#. Description of the plugin
+#: ks-plugin.php
+msgid "This plugin contains custom functionality for the KS website and intranet."
+msgstr "Plugin-i taanna KS-ip nittartagaanut aamma intranetimut naleqqussagaasunik atuisinnaassuseqarpoq."
+
+#. Author of the plugin
+#: ks-plugin.php
+msgid "Jóhan H Dam-Davidsen"
+msgstr "Jóhan H Dam-Davidsen"
+
+#. Author URI of the plugin
+#: ks-plugin.php
+msgid "https://fjakkarin.com"
+msgstr "https://fjakkarin.com"
+
+#: inc/class-department-taxonomy.php:33
+msgctxt "Taxonomy General Name"
+msgid "Departments"
+msgstr "Immikkoortaqarfiit"
+
+#: inc/class-department-taxonomy.php:34
+msgctxt "Taxonomy Singular Name"
+msgid "Department"
+msgstr "Departmenti"
+
+#: inc/class-department-taxonomy.php:35
+msgid "Departments"
+msgstr "Immikkoortaqarfiit"
+
+#: inc/class-department-taxonomy.php:36
+msgid "All Departments"
+msgstr "Pisortaqarfiit tamarmik"
+
+#: inc/class-department-taxonomy.php:37
+msgid "Parent Department"
+msgstr "Angajoqqaanut immikkoortortaqarfik"
+
+#: inc/class-department-taxonomy.php:38
+msgid "Parent Department:"
+msgstr "Angajoqqaanut immikkoortortaqarfik:"
+
+#: inc/class-department-taxonomy.php:39
+msgid "New Department"
+msgstr "Pisortaqarfik nutaaq"
+
+#: inc/class-department-taxonomy.php:40
+msgid "Add New Department"
+msgstr "Immikkoortortaqarfik nutaaq ilanngukkit"
+
+#: inc/class-department-taxonomy.php:41
+msgid "Edit Department"
+msgstr "Edit-imik immikkoortortaqarfik"
+
+#: inc/class-department-taxonomy.php:42
+msgid "Update Department"
+msgstr "Update-mik immikkoortortaqarfik"
+
+#: inc/class-department-taxonomy.php:43
+msgid "View Department"
+msgstr "Immikkoortortaqarfik takuuk"
+
+#: inc/class-department-taxonomy.php:44
+msgid "Separate Departments with commas"
+msgstr "Immikkoortortaqarfiit kommanik atorlugit"
+
+#: inc/class-department-taxonomy.php:48
+msgid "Add or remove Departments"
+msgstr "Immikkoortortaqarfiit ilanngukkit imaluunniit peerlugit"
+
+#: inc/class-department-taxonomy.php:53
+msgid "Popular Departments"
+msgstr "Immikkoortortaqarfiit nuannarineqarluartut"
+
+#: inc/class-department-taxonomy.php:54
+msgid "Search Departments"
+msgstr "Ujaasinermut Immikkoortortaqarfiit"
+
+#: inc/class-department-taxonomy.php:55
+msgid "No Departments Found"
+msgstr "Immikkoortortaqarfiit Nassaarineqanngillat"
+
+#: inc/class-department-taxonomy.php:56
+msgid "No Departments"
+msgstr "Pisortaqarfiit peqanngillat"
+
+#: inc/class-department-taxonomy.php:57
+msgid "Departments list"
+msgstr "Immikkoortortaqarfiit allattorsimaffiat"
+
+#: inc/class-department-taxonomy.php:58
+msgid "Departments list navigation"
+msgstr "Immikkoortortaqarfiit allattorsimaffiat navigation"
+
+#: inc/class-department-taxonomy.php:106
+msgid "Department"
+msgstr "Departmenti"
+
+#: inc/class-department-taxonomy.php:110
+msgid "Former URL"
+msgstr "Siornatigut URL"
+
+#: inc/class-department-taxonomy.php:128
+msgid "Phone number"
+msgstr "Oqarasuaat"
+
+#: inc/class-department-taxonomy.php:132
+msgid "Phone Instructions"
+msgstr "Telefonikkut ilitsersuutit"
+
+#: inc/class-department-taxonomy.php:141
+msgid "Phone placeholder"
+msgstr "Telefonimut inissisimasoq"
+
+#: inc/class-department-taxonomy.php:149
+msgid "Email"
+msgstr "Emaili"
+
+#: inc/class-department-taxonomy.php:169
+msgid "PO Box"
+msgstr "Postboksi"
+
+#: inc/class-department-taxonomy.php:181
+msgid "PO Box - default value"
+msgstr "PO Box - pingaarnertut pingaarnertut"
+
+#: inc/class-department-taxonomy.php:192
+msgid "Address line 1"
+msgstr "Adressi linja 1"
+
+#: inc/class-department-taxonomy.php:196
+msgid "Address line 1 - instructions"
+msgstr "Adresse linje 1 - ilitsersuutit"
+
+#: inc/class-department-taxonomy.php:205
+msgid "Address Placeholder"
+msgstr "Adresse Sumiiffimmi"
+
+#: inc/class-department-taxonomy.php:213
+msgid "Address line 2"
+msgstr "Adresse linje 2"
+
+#: inc/class-department-taxonomy.php:234
+msgid "Postcode"
+msgstr "Postnummeri"
+
+#: inc/class-department-taxonomy.php:238
+msgid "Postcode - instructions"
+msgstr "Postnummeri - ilitsersuut"
+
+#: inc/class-department-taxonomy.php:247
+msgid "Postcode - placeholder"
+msgstr "Postnummeri - inissisimaffik"
+
+#: inc/class-department-taxonomy.php:257
+msgid "City"
+msgstr "Illoqarfik"
+
+#: inc/class-department-taxonomy.php:261
+msgid "City - instructions"
+msgstr "Illoqarfik - ilitsersuut"
+
+#: inc/class-department-taxonomy.php:270
+msgid "City - placeholder"
+msgstr "Illoqarfik - inissisimaffik"
+
+#: inc/class-department-taxonomy.php:278
+msgid "Standard opening hours"
+msgstr "Ammasarfiit nalinginnaasut"
+
+#: inc/class-department-taxonomy.php:299
+msgid "Opening hours"
+msgstr "Ammasarfiit"
+
+#: inc/class-department-taxonomy.php:323 inc/class-department-taxonomy.php:427
+msgid "Add days"
+msgstr "Ullut ilanngukkit"
+
+#: inc/class-department-taxonomy.php:327 inc/class-department-taxonomy.php:431
+msgid "Days"
+msgstr "Ullut"
+
+#: inc/class-department-taxonomy.php:340 inc/class-department-taxonomy.php:444
+msgid "Monday"
+msgstr "Ataasinngorneq"
+
+#: inc/class-department-taxonomy.php:341 inc/class-department-taxonomy.php:445
+msgid "Tuesday"
+msgstr "Marlunngorneq"
+
+#: inc/class-department-taxonomy.php:342 inc/class-department-taxonomy.php:446
+msgid "Wednesday"
+msgstr "Pingasunngorneq"
+
+#: inc/class-department-taxonomy.php:343 inc/class-department-taxonomy.php:447
+msgid "Thursday"
+msgstr "Sisamanngorneq"
+
+#: inc/class-department-taxonomy.php:344 inc/class-department-taxonomy.php:448
+msgid "Friday"
+msgstr "Tallimanngorneq"
+
+#: inc/class-department-taxonomy.php:345 inc/class-department-taxonomy.php:449
+msgid "Saturday"
+msgstr "Arfininngorneq"
+
+#: inc/class-department-taxonomy.php:346 inc/class-department-taxonomy.php:450
+msgid "Sunday"
+msgstr "Sapaat"
+
+#: inc/class-department-taxonomy.php:360 inc/class-department-taxonomy.php:464
+msgid "Opens"
+msgstr "Ammavoq"
+
+#: inc/class-department-taxonomy.php:364 inc/class-department-taxonomy.php:468
+msgid "Opens - instructions"
+msgstr "Avammut - ilitsersuutit"
+
+#: inc/class-department-taxonomy.php:384 inc/class-department-taxonomy.php:488
+msgid "Closes"
+msgstr "Matuvoq"
+
+#: inc/class-department-taxonomy.php:388 inc/class-department-taxonomy.php:492
+msgid "Closes - instructions"
+msgstr "Suliaq - ilitsersuutit"
+
+#: inc/class-department-taxonomy.php:411
+msgid "Phone hours"
+msgstr "Oqarasuaatip ammasarfii"
+
+#: inc/class-department-taxonomy.php:415
+msgid "Phone hours - instructions"
+msgstr "Telefonip nalunaaqutai - ilitsersuut"
+
+#: inc/class-department-taxonomy.php:515
+msgid "Ignore holiday closing"
+msgstr "Ferie-mik matusineq soqutiginngilluinnarlugu"
+
+#: inc/class-department-taxonomy.php:519
+msgid "Ignore holiday closing - instructions"
+msgstr "Ferie-mik matusineq - ilitsersuutit soqutiginagit"
+
+#: inc/class-department-taxonomy.php:536
+msgid "Requires appointment"
+msgstr "Piffissamik piffissaqartitsisoqarnissaa pisariaqarpoq"
+
+#: inc/class-department-taxonomy.php:557
+msgid "GLN"
+msgstr "GLN"
+
+#: inc/class-department-taxonomy.php:591
+msgid "No color"
+msgstr "Qalipaateqanngilaq"
+
+#: inc/class-department-taxonomy.php:592
+msgid "Blue"
+msgstr "Tungujortoq"
+
+#: inc/class-department-taxonomy.php:593
+msgid "Purple"
+msgstr "Tunguusaq"
+
+#: inc/class-department-taxonomy.php:594
+msgid "Green"
+msgstr "Qorsorpaluttoq"
+
+#: inc/class-department-taxonomy.php:595
+msgid "Red"
+msgstr "Aappaluttoq"
+
+#: inc/class-department-taxonomy.php:596
+msgid "Orange"
+msgstr "Orangeaq"
+
+#: inc/class-department-taxonomy.php:597
+msgid "Light Blue"
+msgstr "Tunguusaq Blå"
+
+#: inc/class-department-taxonomy.php:610
+msgid "Social"
+msgstr "Inuit akornanni inuunermut tunngassuteqartoq"
+
+#: inc/class-department-taxonomy.php:626
+msgid "Add link"
+msgstr "Link ilanngukkit"
+
+#: inc/class-department-taxonomy.php:630
+msgid "Link"
+msgstr "Linki"
+
+#: inc/class-department-taxonomy.php:649
+msgid "Label"
+msgstr "Allagartaq"

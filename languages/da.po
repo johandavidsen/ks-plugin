@@ -1,0 +1,329 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: KS Plugin\n"
+"POT-Creation-Date: 2024-09-19 11:50+0100\n"
+"PO-Revision-Date: 2024-09-19 12:01+0100\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: da_DK\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 3.5\n"
+"X-Poedit-Basepath: ..\n"
+"X-Poedit-Flags-xgettext: --add-comments=translators:\n"
+"X-Poedit-WPHeader: ks-plugin.php\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-KeywordsList: __;_e;_n:1,2;_x:1,2c;_ex:1,2c;_nx:4c,1,2;esc_attr__;"
+"esc_attr_e;esc_attr_x:1,2c;esc_html__;esc_html_e;esc_html_x:1,2c;"
+"_n_noop:1,2;_nx_noop:3c,1,2;__ngettext_noop:1,2\n"
+"X-Poedit-SearchPath-0: .\n"
+"X-Poedit-SearchPathExcluded-0: *.min.js\n"
+"X-Poedit-SearchPathExcluded-1: vendor\n"
+
+#: inc/class-department-taxonomy.php:33
+msgctxt "Taxonomy General Name"
+msgid "Departments"
+msgstr "Afdelinger"
+
+#: inc/class-department-taxonomy.php:34
+msgctxt "Taxonomy Singular Name"
+msgid "Department"
+msgstr "Afdeling"
+
+#: inc/class-department-taxonomy.php:35
+msgid "Departments"
+msgstr "Afdelinger"
+
+#: inc/class-department-taxonomy.php:36
+msgid "All Departments"
+msgstr "Alle Afdelinger"
+
+#: inc/class-department-taxonomy.php:37
+msgid "Parent Department"
+msgstr "Forældre Afdeling"
+
+#: inc/class-department-taxonomy.php:38
+msgid "Parent Department:"
+msgstr "Forældre Afdeling:"
+
+#: inc/class-department-taxonomy.php:39
+msgid "New Department"
+msgstr "Ny Afdeling"
+
+#: inc/class-department-taxonomy.php:40
+msgid "Add New Department"
+msgstr "Tilføj Ny Afdeling"
+
+#: inc/class-department-taxonomy.php:41
+msgid "Edit Department"
+msgstr "Ændr Afdeling"
+
+#: inc/class-department-taxonomy.php:42
+msgid "Update Department"
+msgstr "Opdater Afdeling"
+
+#: inc/class-department-taxonomy.php:43
+msgid "View Department"
+msgstr "Vis Afdeling"
+
+#: inc/class-department-taxonomy.php:45
+msgid "Separate Departments with commas"
+msgstr "Adskil Afdelinger med komma"
+
+#: inc/class-department-taxonomy.php:48
+msgid "Add or remove Departments"
+msgstr "Tilføj eller fjern Afdeling"
+
+#: inc/class-department-taxonomy.php:50
+msgid "Choose from the most used Departments"
+msgstr "Vælg mellem de mest brugte afdelinger"
+
+#: inc/class-department-taxonomy.php:53
+msgid "Popular Departments"
+msgstr "Populære Afdelinger"
+
+#: inc/class-department-taxonomy.php:54
+msgid "Search Departments"
+msgstr "Søg efter Afdeling"
+
+#: inc/class-department-taxonomy.php:55
+msgid "No Departments Found"
+msgstr "Ingen afdelinger fundet"
+
+#: inc/class-department-taxonomy.php:56
+msgid "No Departments"
+msgstr "Ingen afdelinger"
+
+#: inc/class-department-taxonomy.php:57
+msgid "Departments list"
+msgstr "Afdelingsliste"
+
+#: inc/class-department-taxonomy.php:58
+msgid "Departments list navigation"
+msgstr "Afdelings liste navigation"
+
+#: inc/class-department-taxonomy.php:106
+msgid "Department"
+msgstr "Afdeling"
+
+#: inc/class-department-taxonomy.php:110
+msgid "Former URL"
+msgstr "Tidligere URL"
+
+#: inc/class-department-taxonomy.php:128
+msgid "Phone number"
+msgstr "Telefonnummer"
+
+#: inc/class-department-taxonomy.php:132
+msgid "Phone Instructions"
+msgstr "Ignorer, hvis telefon nummer er: +299 36 70 00"
+
+#: inc/class-department-taxonomy.php:141
+msgid "Phone placeholder"
+msgstr "+299 36 70 00"
+
+#: inc/class-department-taxonomy.php:149
+msgid "Email"
+msgstr "E-mail"
+
+#: inc/class-department-taxonomy.php:169
+msgid "PO Box"
+msgstr "Postboks"
+
+#: inc/class-department-taxonomy.php:181
+msgid "PO Box - default value"
+msgstr "Ignorer, hvis Postboks er: 1005"
+
+#: inc/class-department-taxonomy.php:192
+msgid "Address line 1"
+msgstr "Adresselinje 1"
+
+#: inc/class-department-taxonomy.php:196
+msgid "Address line 1 - instructions"
+msgstr "Ignorer, hvis adressen er: Kuussuaq 2"
+
+#: inc/class-department-taxonomy.php:205
+msgid "Address Placeholder"
+msgstr "Kuussuaq 2"
+
+#: inc/class-department-taxonomy.php:213
+msgid "Address line 2"
+msgstr "Adresselinje 2"
+
+#: inc/class-department-taxonomy.php:234
+msgid "Postcode"
+msgstr "Postnummer"
+
+#: inc/class-department-taxonomy.php:238
+msgid "Postcode - instructions"
+msgstr "Ignorer hvis postnummeret er: 3900"
+
+#: inc/class-department-taxonomy.php:247
+msgid "Postcode - placeholder"
+msgstr "3900"
+
+#: inc/class-department-taxonomy.php:257
+msgid "City"
+msgstr "By"
+
+#: inc/class-department-taxonomy.php:261
+msgid "City - instructions"
+msgstr "Ignorer hvis byen er: Nuuk"
+
+#: inc/class-department-taxonomy.php:270
+msgid "City - placeholder"
+msgstr "Nuuk"
+
+#: inc/class-department-taxonomy.php:278
+msgid "Standard opening hours"
+msgstr "Standard åbningstider"
+
+#: inc/class-department-taxonomy.php:299
+msgid "Opening hours"
+msgstr "Åbningstider"
+
+#: inc/class-department-taxonomy.php:323 inc/class-department-taxonomy.php:427
+msgid "Add days"
+msgstr "Tilføj dage"
+
+#: inc/class-department-taxonomy.php:327 inc/class-department-taxonomy.php:431
+msgid "Days"
+msgstr "Dage"
+
+#: inc/class-department-taxonomy.php:340 inc/class-department-taxonomy.php:444
+msgid "Monday"
+msgstr "Mandag"
+
+#: inc/class-department-taxonomy.php:341 inc/class-department-taxonomy.php:445
+msgid "Tuesday"
+msgstr "Tirsdag"
+
+#: inc/class-department-taxonomy.php:342 inc/class-department-taxonomy.php:446
+msgid "Wednesday"
+msgstr "Onsdag"
+
+#: inc/class-department-taxonomy.php:343 inc/class-department-taxonomy.php:447
+msgid "Thursday"
+msgstr "Torsdag"
+
+#: inc/class-department-taxonomy.php:344 inc/class-department-taxonomy.php:448
+msgid "Friday"
+msgstr "Fredag"
+
+#: inc/class-department-taxonomy.php:345 inc/class-department-taxonomy.php:449
+msgid "Saturday"
+msgstr "Lørdag"
+
+#: inc/class-department-taxonomy.php:346 inc/class-department-taxonomy.php:450
+msgid "Sunday"
+msgstr "Søndag"
+
+#: inc/class-department-taxonomy.php:360 inc/class-department-taxonomy.php:464
+msgid "Opens"
+msgstr "Åbner"
+
+#: inc/class-department-taxonomy.php:364 inc/class-department-taxonomy.php:468
+msgid "Opens - instructions"
+msgstr "930 = 9.30, 1800 = 18.00"
+
+#: inc/class-department-taxonomy.php:384 inc/class-department-taxonomy.php:488
+msgid "Closes"
+msgstr "Lukker"
+
+#: inc/class-department-taxonomy.php:388 inc/class-department-taxonomy.php:492
+msgid "Closes - instructions"
+msgstr "1200 = 12.00, 1630 = 16.30"
+
+#: inc/class-department-taxonomy.php:411
+msgid "Phone hours"
+msgstr "Telefontid"
+
+#: inc/class-department-taxonomy.php:415
+msgid "Phone hours - instructions"
+msgstr "Ignorer, hvis ikke aktuelt"
+
+#: inc/class-department-taxonomy.php:515
+msgid "Ignore holiday closing"
+msgstr "Ignorer ferielukning"
+
+#: inc/class-department-taxonomy.php:519
+msgid "Ignore holiday closing - instructions"
+msgstr ""
+"Hvis dette er aktiveret, vil department ignorere lukke tiderene i de "
+"globale indstillinger"
+
+#: inc/class-department-taxonomy.php:536
+msgid "Requires appointment"
+msgstr "Kræver aftale"
+
+#: inc/class-department-taxonomy.php:557
+msgid "GLN"
+msgstr "GLN"
+
+#: inc/class-department-taxonomy.php:591
+msgid "No color"
+msgstr "Ingen farve"
+
+#: inc/class-department-taxonomy.php:592
+msgid "Blue"
+msgstr "Blå"
+
+#: inc/class-department-taxonomy.php:593
+msgid "Purple"
+msgstr "Lilla"
+
+#: inc/class-department-taxonomy.php:594
+msgid "Green"
+msgstr "Grøn"
+
+#: inc/class-department-taxonomy.php:595
+msgid "Red"
+msgstr "Rød"
+
+#: inc/class-department-taxonomy.php:596
+msgid "Orange"
+msgstr "Orange"
+
+#: inc/class-department-taxonomy.php:597
+msgid "Light Blue"
+msgstr "Lys Blå"
+
+#: inc/class-department-taxonomy.php:610
+msgid "Social"
+msgstr "Sociale medier"
+
+#: inc/class-department-taxonomy.php:626
+msgid "Add link"
+msgstr "Tilføj link"
+
+#: inc/class-department-taxonomy.php:630
+msgid "Link"
+msgstr "Link"
+
+#: inc/class-department-taxonomy.php:649
+msgid "Label"
+msgstr "Label"
+
+#. Plugin Name of the plugin/theme
+msgid "KS Plugin"
+msgstr "KS Plugin"
+
+#. Plugin URI of the plugin/theme
+msgid "https://fjakkarin.com/ks-plugin"
+msgstr "https://fjakkarin.com/ks-plugin"
+
+#. Description of the plugin/theme
+msgid ""
+"This plugin contains custom functionality for the KS website and intranet."
+msgstr ""
+"Dette plugin indeholder brugerdefinerede funktioner til KS' hjemmeside og "
+"intranet."
+
+#. Author of the plugin/theme
+msgid "Jóhan H Dam-Davidsen"
+msgstr "Jóhan H Dam-Davidsen"
+
+#. Author URI of the plugin/theme
+msgid "https://fjakkarin.com"
+msgstr "https://fjakkarin.com"
